@@ -136,6 +136,6 @@ width: 50%;
     }
     .apresentacao__links__navegacao {
         width: auto;
-        padding: auto;
+        padding: 3px;
     }
 }
