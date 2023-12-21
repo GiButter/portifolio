@@ -139,6 +139,7 @@ width: 50%;
         padding: 10px;
     }
     .apresentacao__imagem {
-        margin: 5%;
+        margin: 5px;
+        width: 25%;
     }
 }
